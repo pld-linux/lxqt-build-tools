@@ -1,12 +1,12 @@
 Summary:	Packaging tools for LXQt
 Summary(pl.UTF-8):	Narzędzia do budowania pakietów dla LXQt
 Name:		lxqt-build-tools
-Version:	2.3.0
+Version:	2.4.0
 Release:	1
 License:	BSD-3-Clause
 URL:		https://lxqt-project.org/
 Source0:	https://github.com/lxqt/lxqt-build-tools/releases/download/%{version}/%{name}-%{version}.tar.xz
-# Source0-md5:	322e9e75b884334abb2e2fd6f8f57995
+# Source0-md5:	a480ab7ffadf032340d7b0a705585101
 BuildRequires:	Qt6Core-devel
 BuildRequires:	cmake
 BuildRequires:	rpmbuild(macros) >= 1.742
